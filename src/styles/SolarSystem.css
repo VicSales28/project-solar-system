@@ -1,0 +1,13 @@
+.solar-system-container {
+  margin-bottom: 25px;
+}
+
+.planets-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  flex-wrap: wrap;
+}

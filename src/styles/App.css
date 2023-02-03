@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+body {
+  background-image: url(/src/images/background.png);
+  background-size: cover;
+  font-family: 'Aboreto', cursive;
+  color: white;
+}
+
+h1 {
+  font-family: 'Aboreto', cursive;
+  font-size: 325%;
+  margin: 60px 0;
+  transition: 0.2s;
+}
+
+h2 {
+  font-size: 210%;
+}
+
+h1, h2 {
+  color: rgb(98, 219, 251);
+  text-align: center;
+}
+
+h1:hover {
+  color: rgb(200, 120, 200);
+  cursor: pointer;
+}

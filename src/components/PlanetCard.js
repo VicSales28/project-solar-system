@@ -1,16 +1,25 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import '../styles/PlanetCard.css';
 
 class PlanetCard extends React.Component {
   render() {
     const { planetName, planetImage } = this.props;
+
     return (
-      <div data-testid="planet-card">
+      <div
+        data-testid="planet-card"
+        className="planet-card"
+      >
+
         <p data-testid="planet-name">{ planetName }</p>
+
         <img
           src={ planetImage }
           alt={ `Planeta ${planetName}` }
+          className={ `${planetName}-img` }
         />
+
       </div>
     );
   }

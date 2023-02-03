@@ -1,0 +1,13 @@
+.mission-card {
+  border: 1px solid rgb(98, 219, 251);
+  border-radius: 8px;
+  padding: 16px 32px;
+  flex-grow: 1;
+  min-width: fit-content;
+  transition: 0.2s;
+}
+
+.mission-card:hover {
+  border: 1px solid rgb(207, 91, 177);
+  border-radius: 8px;
+}
