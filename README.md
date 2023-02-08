@@ -1,4 +1,4 @@
-# Solar Syste 🪐 (TRYBE)
+# Solar System 🪐 (TRYBE)
 
 My second Front-end module project successfully completed. 🚀🚀🚀
 
