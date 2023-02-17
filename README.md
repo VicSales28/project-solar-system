@@ -1,6 +1,8 @@
-# Solar System 🪐 (TRYBE)
+# Solar System 🪐
 
-My second Front-end module project successfully completed. 🚀🚀🚀
+My second Front-end module project successfully completed 🚀🚀🚀
+
+It was developed while I was studying React for the first time at Trybe's Programming School.
 
 In this project I developed a model of the solar system that the user is able to:
 
