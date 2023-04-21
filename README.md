@@ -15,8 +15,6 @@ January 31, 2023 at 14:00 pm
 
 <details>
   <summary><strong>🏗 Project structure</strong></summary><br />
-  
-### Files and Functions
 
 The entire project was developed:
 
